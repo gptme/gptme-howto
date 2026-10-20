@@ -19,6 +19,7 @@ This repo is a collection of task-oriented recipes showing exactly what to type.
 | [Debug a failing test](howto-debug-python.md) | Reproduce, trace, fix, verify |
 | [Automate a workflow](howto-automate-task.md) | Release scripts, deploy scripts, scaffolding |
 | [Refactor across files](howto-refactor.md) | Rename, extract, move, signature changes |
+| [Connect ibara over MCP](howto-connect-ibara.md) | Configure a local server and verify tool discovery without a desktop task |
 
 ## Quick start
 
